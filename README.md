@@ -53,7 +53,7 @@ Cuenta con las siguientes opciones:
 Primero de todo tenemos que de
 
 ```shell
-git clone --recurse-submodules --branch main https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco.git atlas
+git clone --recurse-submodules --branch main https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco.git atlas
 cd atlas
 bash atlas-quick.sh up
 ```
@@ -65,7 +65,7 @@ Una vez se ha ejecutado el script, deberíamos poder acceder a la aplicación in
 Alternativamente, se pueden seguir los siguientes pasos ejecutando en un shell ```bash```:
 
 ```shell
-~$ git clone --recurse-submodules --branch main https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco.git atlas
+~$ git clone --recurse-submodules --branch main https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco.git atlas
 ~$ cd atlas
 ~/atlas$ cp atlas/.env.example atlas/.env
 ~/atlas$ cp laradock-atlas-daw/.env.example laradock-atlas-daw/.env
@@ -106,22 +106,22 @@ Nota: En cada línea, la primera parte es el directorio en que se debe ejecutar 
 
 ## Documentación
 
-Toda la documentación del proyecto se puede encontrar en la [wiki](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki):
+Toda la documentación del proyecto se puede encontrar en la [wiki](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki):
 
-- [Inicio](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Home)
-- [Documentación del Proyecto](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Doc_PI)
-  - [Introducción](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/1Doc_Introduccion)
-  - [Objetivos y requisitos del proyecto](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/2Doc_Objetivos_Requisitos)
-  - [Estudio previo](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/3Doc_Estudio_previo)
-  - [Plan de trabajo](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/4Doc_Plan_Trabajo)
-  - [Diseño](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/5Doc_Diseno)
-  - [Implantación](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/6Doc_Implantacion)
-  - [Recursos](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/7Doc_Recursos)
-  - [Conclusiones](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/8Doc_Conclusiones)
-  - [Referencias / bibliografía](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/9Doc_Referencias_Bibliografia)
-  - [Anexos](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/10Doc_Anexos)
-- [Manual de Despliegue](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Manual_Despliegue)
-- [Manual de Usuario](https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Manual_Usuario)
+- [Inicio](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Home)
+- [Documentación del Proyecto](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Doc_PI)
+  - [Introducción](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/1Doc_Introduccion)
+  - [Objetivos y requisitos del proyecto](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/2Doc_Objetivos_Requisitos)
+  - [Estudio previo](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/3Doc_Estudio_previo)
+  - [Plan de trabajo](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/4Doc_Plan_Trabajo)
+  - [Diseño](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/5Doc_Diseno)
+  - [Implantación](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/6Doc_Implantacion)
+  - [Recursos](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/7Doc_Recursos)
+  - [Conclusiones](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/8Doc_Conclusiones)
+  - [Referencias / bibliografía](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/9Doc_Referencias_Bibliografia)
+  - [Anexos](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/10Doc_Anexos)
+- [Manual de Despliegue](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Manual_Despliegue)
+- [Manual de Usuario](https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Manual_Usuario)
 
 ## Uso
 
@@ -156,6 +156,6 @@ Estos datos están cubiertos bajo la <a rel="license" href="http://creativecommo
 [http://localhost/]: http://localhost/
 [mapas de conocimiento crítico]: https://ws168.juntadeandalucia.es/wikigestionC/index.php?title=Mapa_de_Conocimiento_Cr%C3%ADtico
 [Identificación del Conocimiento Crítico]: https://ws168.juntadeandalucia.es/iaap/gestiondelconocimiento/proyectos/edicion-2019-2020-edicion-2019-2020/gc06-identificacion-del-conocimiento-critico/
-[Manual de Despliegue]: https://github.com/iesgrancapitan-proyectos/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Manual_Despliegue
+[Manual de Despliegue]: https://github.com/PedroBlanco/202021daw_junio_Atlas-de-Conocimiento-Critico-PedroBlanco/wiki/Manual_Despliegue
 [Laravel]: https://laravel.com/
 [EUPL versión EUPL-1.2-o-posterior]: https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL%20v1_2%20ES.txt

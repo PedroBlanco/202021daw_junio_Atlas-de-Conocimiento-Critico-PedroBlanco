@@ -3,6 +3,8 @@
 [![Licencia EUPLv1.2 o superior](eupl_1.2.svg)](LICENSE)
 [![Datos bajo Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+**2023-02-24 - Este proyecto ha sido archivado**
+
 Este es el repositorio del Proyecto Integrado _Atlas de Conocimiento Crítico_ del Ciclo Superior de Formación Profesional _"Desarrollo de Aplicaciones Web"_ del [IES Gran Capitan](https://informatica.iesgrancapitan.org).
 
 El objetivo principal de este proyecto es elaborar un "Directorio de Mapas de Conocimiento Crítico", concretamente con forma de "mapa geolocalizado" de [mapas de conocimiento crítico] y sus datos asociados.
